@@ -1,0 +1,20 @@
+.BABY{
+    display: flex;
+    justify-content: space-between;
+    color:rgb(15, 124, 124);
+   
+
+}
+.mouhamed{
+    width: 50%;
+    position: fixed;
+    top: 50;
+    left: 70;
+   
+}
+.pere{
+    width: 50%;
+    position: absolute;
+    margin-left: 600px;
+   
+}
